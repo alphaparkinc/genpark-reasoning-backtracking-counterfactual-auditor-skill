@@ -1,0 +1,15 @@
+{
+  "name": "genpark-reasoning-backtracking-counterfactual-auditor-skill",
+  "version": "1.0.0",
+  "description": "GenPark Reasoning Backtracking Counterfactual Auditor - Detects reasoning loops, deadlocks, and logical contradictions to execute non-destructive checkpoint rollbacks.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "deepseek-r1",
+    "backtracking",
+    "counterfactual-reasoning",
+    "deadlock-detection",
+    "mcp"
+  ]
+}
